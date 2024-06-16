@@ -1,10 +1,11 @@
+
+
 # FortranProject 
 
 Credit project for the class Fortran Programming UJ 2023/2024
 
 ## Description
 This repository contains a credit project for the Fortran Programming class at Jagiellonian University (UJ) for the academic year 2023/2024.
-
 
 ## Requirements
 - Fortran compiler, in this case gfortran
