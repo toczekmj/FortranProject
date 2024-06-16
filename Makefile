@@ -4,11 +4,11 @@ CFLAGS=-c -g -Og -Wall
 
 #linking
 a.out: main.o
-	$(FC)  main.o
+	$(FC) main.o
 
 #compiling
-main.o:  main.f95
-	$(FC) $(CFLAGS)  main.f95
+main.o: main.f95
+	$(FC) $(CFLAGS) main.f95
 
 #cleanup
 clean: 
