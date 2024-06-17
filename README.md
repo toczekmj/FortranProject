@@ -10,7 +10,7 @@ Credit project for the class Fortran Programming UJ 2023/2024
 - [Usage examples](#usage-examples)
     - [CLI](#cli)
         - [Compile using make](#compile-and-run-using-make)
-        - [Compile using gfortran]( compile-and-run-manually-using-gfortran)
+        - [Compile using gfortran]( #compile-and-run-manually-using-gfortran)
     - [Visual Studio Code](#visual-studio-code)
         - [Troubleshooting](#troubleshooting)
 - [Announcement](#announcement) 
@@ -51,7 +51,7 @@ The goal of this project was to create a simple command line based, interactive-
 - Git installed on your machine
 
 
-## Usage/Examples
+## Usage Examples
 
 ### CLI
 - Clone the repository
