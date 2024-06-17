@@ -87,9 +87,9 @@ gfortran main.f95 -o todolist
 
 #### Troubleshooting 
 - In case when something is not working properly in VSCode, make sure that you have installed following extensions:
-- C/C++
-- Modern Fortran
-- Fortran Breakpoint Support
+    - C/C++
+    - Modern Fortran
+    - Fortran Breakpoint Support
 - And also check if GDB is installed properly in your system (on unix based systems execute this command: which gdb)
 #### Announcement 
 As for now, there is no support for GDB on arm64 devices, so even tho you may successfuly compile the program using gfortran, there is no way to debug this using GDB. Actually there is one workaround for MacOs, but it requires using quemu and other external programs like lima. You can check it [here](https://stackoverflow.com/questions/67310123/how-to-install-gdb-on-mac-m1-apple-silicon). It is an answer by Mohamed Ismaiel Ahmed.
